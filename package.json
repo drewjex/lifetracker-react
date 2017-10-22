@@ -1,5 +1,5 @@
 {
-  "name": "mobx-react-typescript-boilerplate",
+  "name": "lifetracker-react",
   "version": "1.0.0",
   "description": "Boilerplate for MobX + React project with Typescript, ES6 compilation and hot code reloading",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mobxjs/mobx-react-typescript-boilerplate.git"
+    "url": "https://github.com/mobxjs/lifetracker-react.git"
   },
   "keywords": [
     "react",
